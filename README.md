@@ -90,6 +90,7 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ![linear regression using gradient descent](sam.png)
 ![273396389-977e8b21-77a6-48e6-8d83-522ea1492b20](https://github.com/Hemaprasad-N/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135933397/abf7e817-c812-4bea-91a4-ad634af18893)
 ![273396408-ad6e5fac-22ba-45da-a249-cf1f7d9cbaf0](https://github.com/Hemaprasad-N/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135933397/d9949b2c-8701-4e2f-8c34-6ac59820af52)
+
 ![273396428-d6e61072-d515-4468-94c9-484bed892e8e](https://github.com/Hemaprasad-N/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135933397/2719196c-cf62-4857-84e7-ab50aae9f038)
 ![273396441-d1e69a37-7817-4eda-949e-095f69f9c4d3](https://github.com/Hemaprasad-N/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135933397/8023d25a-872d-497b-921e-ea187eed55ce)
 ![273396457-98519423-8459-4728-b7be-3728682807aa](https://github.com/Hemaprasad-N/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135933397/b28c6c48-1621-4260-bb91-03856900463b)
